@@ -1,0 +1,19 @@
+ 
+ .Navlist {
+    display: flex;
+    justify-content: space-around;   
+    width: 100%;
+  } 
+  
+  Link styles
+   .nav-link {
+    text-decoration: none;  
+    padding: 0 15px;           
+  } 
+   
+  .nav-link:hover {
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-thickness: 2px;
+  }
+  
