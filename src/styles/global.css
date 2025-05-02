@@ -1,4 +1,8 @@
  
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
  .Navlist {
     display: flex;
     justify-content: space-around;   
